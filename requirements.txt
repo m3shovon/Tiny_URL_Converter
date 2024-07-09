@@ -1,0 +1,12 @@
+asgiref           
+certifi         
+charset-normalizer 
+Django            
+idna              
+pip              
+pyshorteners     
+requests          
+setuptools        
+sqlparse          
+typing_extensions 
+urllib3          
